@@ -1,13 +1,15 @@
 <% @page_title = "Sections" %>
+<%= link_to("<< Back to Pages",pages_path(:subject_id => @page.subject_id),:class => 'back-link')%>
 <div class="sections index">
 	<h2>Sections</h2>
 	<%= image_tag('plus_sign.png',:size => '11x11',:alt => '+')%>
-	<%= link_to("Add New Section",new_section_path,:class => 'action new') %>
+	<%= link_to("Add New Section",sections_new_path(@section,:page_id => @page.id),:class => 'action new') %>
 	<table class="listing" summary="Subject list">
 		<tr class="header">
+			<th>Position</th>
 			<th>Page_id</th>
 			<th>Name</th>
-			<th>Position</th>
+			
 			<th>Visible</th>
 			<th>Content_type</th>
 			<th>Content</th>
@@ -16,18 +18,19 @@
 	
 	<% @sections.each do |section| %>
 	<tr>
+		<td><%= section.position %></td>
 		<td><%= section.page_id %></td>
 		<td><%= section.name %></td>
-		<td><%= section.position %></td>
+		
 		<td class="center"><%= status_tag(section.visible) %></td>
 		
 		<td><%= section.content_type %></td>
 		<td><%= section.content %></td>
 		
 		<td class="actions">
-			<%= link_to("Show",section_path(section), :class => 'action show')%>
-			<%= link_to("Edit",edit_section_path(section), :class => 'action edit')%>
-			<%= link_to("Delete",delete_section_path(section), :class => 'action delete')%>
+			<%= link_to("Show",section_path(section,:page_id => @page.id), :class => 'action show')%>
+			<%= link_to("Edit",edit_section_path(section,:page_id => @page.id), :class => 'action edit')%>
+			<%= link_to("Delete",delete_section_path(section,:page_id => @page.id), :class => 'action delete')%>
 		</td>
 	</tr>
 	<% end %>

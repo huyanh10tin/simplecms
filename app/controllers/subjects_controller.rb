@@ -1,7 +1,9 @@
 class SubjectsController < ApplicationController
   layout 'admin'
-
+  before_action :confirm_logged_in
+  
   def index
+    logger.debug("**** Testing the logger. ****")
     @subjects = Subject.sorted
     
   end

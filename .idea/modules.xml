@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/conFusion/.idea/conFusion.iml" filepath="$USER_HOME$/conFusion/.idea/conFusion.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/sample_app/.idea/sample_app.iml" filepath="$USER_HOME$/workspace/sample_app/.idea/sample_app.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/simple_app/.idea/simple_app.iml" filepath="$USER_HOME$/workspace/simple_app/.idea/simple_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple_cms.iml" filepath="$PROJECT_DIR$/.idea/simple_cms.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/toy_app/.idea/toy_app.iml" filepath="$USER_HOME$/workspace/toy_app/.idea/toy_app.iml" />
+    </modules>
+  </component>
+</project>

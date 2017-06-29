@@ -1,8 +1,9 @@
 	<%= error_messages_for(f.object) %>
 	<table summary="Subject from fields">
+		
 		<tr>
 			<th>Subject</th>
-			<td><%= f.select(:subject_id,@subjects.map{|p| [ p.name , p.id ]}) %></td>
+			<td><%= f.select(:subject_id,[[@subject.name,@subject.id]]) %></td>
 		</tr>
 		<tr>
 			<th>Name</th>

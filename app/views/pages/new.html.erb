@@ -1,7 +1,7 @@
-<%= link_to("<< Back to List",pages_path,:class =>'back-link') %>
-<div class="pages index">
+<%= link_to("<< Back to List",pages_path(:subject_id => @subject.id),:class =>'back-link') %>
+<div class="pages new">
 	<h2>Create Pages</h2>
-	<%= form_for(@page) do |f| %>
+	<%= form_for(@page,:url => pages_path(@page,:subject_id => @subject.id)) do |f| %>
 	<%= render(:partial => 'form',:locals => {:f => f }) %>
 	<div class="form-buttons">
 			<%= f.submit("Created Submited !") %>
