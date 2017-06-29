@@ -12,7 +12,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/scripts/app.js" afterPath="$USER_HOME$/conFusion/app/scripts/app.js" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/scripts/controllers.js" afterPath="$USER_HOME$/conFusion/app/scripts/controllers.js" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/scripts/services.js" afterPath="$USER_HOME$/conFusion/app/scripts/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb" afterPath="$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb" afterPath="$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/models/user.rb" afterPath="$USER_HOME$/workspace/sample_app/app/models/user.rb" />
@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/static_pages_controller.rb">
+      <file leaf-file-name="database.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -189,6 +189,7 @@
         <option value="$USER_HOME$/workspace/sample_app/app/models/user.rb" />
         <option value="$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -454,6 +455,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="simple_cms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_cms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_cms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -819,12 +834,12 @@
       <workItem from="1498618373393" duration="12786000" />
       <workItem from="1498678574363" duration="2285000" />
       <workItem from="1498713404386" duration="5331000" />
-      <workItem from="1498740515259" duration="2071000" />
+      <workItem from="1498740515259" duration="2332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44460000" />
+    <option name="totallyTimeSpent" value="44721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="-11" width="1317" height="780" extended-state="6" />
@@ -863,13 +878,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/workspace/toy_app/app/views/microposts/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/workspace/sample_app/app/models/application_record.rb" />
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionpack-5.1.1/lib/action_dispatch/testing/assertions/response.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -1197,6 +1205,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="41" column="3" lean-forward="false" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="14" />
           <folding />
         </state>
       </provider>
