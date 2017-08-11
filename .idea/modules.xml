@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/Project2/.idea/Project2.iml" filepath="$USER_HOME$/Downloads/Project2/.idea/Project2.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/action_cable_chat_app/.idea/action_cable_chat_app.iml" filepath="$USER_HOME$/workspace/action_cable_chat_app/.idea/action_cable_chat_app.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/brs_26/.idea/brs_26.iml" filepath="$USER_HOME$/workspace/brs_26/.idea/brs_26.iml" />
       <module fileurl="file://$USER_HOME$/conFusion/.idea/conFusion.iml" filepath="$USER_HOME$/conFusion/.idea/conFusion.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/fjp_book_management_system/.idea/fjp_book_management_system.iml" filepath="$USER_HOME$/workspace/fjp_book_management_system/.idea/fjp_book_management_system.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/i_reviewed/.idea/i_reviewed.iml" filepath="$USER_HOME$/workspace/i_reviewed/.idea/i_reviewed.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/livequiz/.idea/livequiz.iml" filepath="$USER_HOME$/workspace/livequiz/.idea/livequiz.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/railsgirls/.idea/railsgirls.iml" filepath="$USER_HOME$/workspace/railsgirls/.idea/railsgirls.iml" />
       <module fileurl="file://$USER_HOME$/workspace/sample_app/.idea/sample_app.iml" filepath="$USER_HOME$/workspace/sample_app/.idea/sample_app.iml" />
       <module fileurl="file://$USER_HOME$/workspace/simple_app/.idea/simple_app.iml" filepath="$USER_HOME$/workspace/simple_app/.idea/simple_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/simple_cms.iml" filepath="$PROJECT_DIR$/.idea/simple_cms.iml" />
-      <module fileurl="file://$USER_HOME$/workspace/toy_app/.idea/toy_app.iml" filepath="$USER_HOME$/workspace/toy_app/.idea/toy_app.iml" />
     </modules>
   </component>
 </project>

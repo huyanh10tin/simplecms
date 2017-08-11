@@ -2,8 +2,24 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$USER_HOME$/Downloads/Project2" vcs="Git" />
     <mapping directory="$USER_HOME$/conFusion" vcs="Git" />
+    <mapping directory="$USER_HOME$/sample_app" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/action_cable_chat_app" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/ass1/todolists" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/bookstore" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/brs_26" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/course2" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/demo_project" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/deviseapp" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/fjp_book_management_system" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/i_reviewed" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/livequiz" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/my_blog" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/railsgirls" vcs="Git" />
     <mapping directory="$USER_HOME$/workspace/sample_app" vcs="Git" />
     <mapping directory="$USER_HOME$/workspace/simple_app" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspace/todolists" vcs="Git" />
+    <mapping directory="/tmp/sample_app_rails_4" vcs="Git" />
   </component>
 </project>

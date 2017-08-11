@@ -5,20 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7d94165-08e4-4fcd-a55e-7bccd3d7dd32" name="Default" comment="">
-      <change type="DELETED" beforePath="$USER_HOME$/conFusion/app/contactus.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/conFusion/app/dishdetail.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/conFusion/app/menu.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/index.html" afterPath="$USER_HOME$/conFusion/app/index.html" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/scripts/app.js" afterPath="$USER_HOME$/conFusion/app/scripts/app.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/scripts/controllers.js" afterPath="$USER_HOME$/conFusion/app/scripts/controllers.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/conFusion/app/scripts/services.js" afterPath="$USER_HOME$/conFusion/app/scripts/services.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/workspace/bookstore/app/views/books/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/workspace/bookstore/app/views/partial/_sidebar.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/workspace/i_reviewed/app/views/books/_book.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/workspace/i_reviewed/app/views/notes/_note.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/workspace/sample_app/config/initializers/kaminari.rb" />
+      <change type="DELETED" beforePath="$USER_HOME$/Downloads/Project2/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/workspace/livequiz/Gemfile.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/Gemfile" afterPath="$USER_HOME$/Downloads/Project2/Gemfile" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/config/database.yml" afterPath="$USER_HOME$/Downloads/Project2/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/config/initializers/devise.rb" afterPath="$USER_HOME$/Downloads/Project2/config/initializers/devise.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/config/locales/devise.en.yml" afterPath="$USER_HOME$/Downloads/Project2/config/locales/devise.en.yml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/db/migrate/20170306105516_create_curriculum_vitaes.rb" afterPath="$USER_HOME$/Downloads/Project2/db/migrate/20170306105516_create_curriculum_vitaes.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/db/migrate/20170307150335_create_internship_recruitments.rb" afterPath="$USER_HOME$/Downloads/Project2/db/migrate/20170307150335_create_internship_recruitments.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/db/migrate/20170521031336_add_status_to_internship_registrations.rb" afterPath="$USER_HOME$/Downloads/Project2/db/migrate/20170521031336_add_status_to_internship_registrations.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/db/migrate/20170521044541_add_status_to_internship_recruitments.rb" afterPath="$USER_HOME$/Downloads/Project2/db/migrate/20170521044541_add_status_to_internship_recruitments.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Downloads/Project2/db/schema.rb" afterPath="$USER_HOME$/Downloads/Project2/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/simple_cms.iml" afterPath="$PROJECT_DIR$/.idea/simple_cms.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb" afterPath="$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb" afterPath="$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/models/user.rb" afterPath="$USER_HOME$/workspace/sample_app/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/db/schema.rb" afterPath="$USER_HOME$/workspace/sample_app/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/toy_app/Gemfile" afterPath="$USER_HOME$/workspace/toy_app/Gemfile" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/toy_app/Gemfile.lock" afterPath="$USER_HOME$/workspace/toy_app/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/action_cable_chat_app/.idea/action_cable_chat_app.iml" afterPath="$USER_HOME$/workspace/action_cable_chat_app/.idea/action_cable_chat_app.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/Gemfile.lock" afterPath="$USER_HOME$/workspace/brs_26/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/app/assets/stylesheets/custom.css.scss" afterPath="$USER_HOME$/workspace/brs_26/app/assets/stylesheets/custom.css.scss" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/app/controllers/admin/requests_controller.rb" afterPath="$USER_HOME$/workspace/brs_26/app/controllers/admin/requests_controller.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/app/views/admin/requests/index.html.erb" afterPath="$USER_HOME$/workspace/brs_26/app/views/admin/requests/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/app/views/books/_mark_button.html.erb" afterPath="$USER_HOME$/workspace/brs_26/app/views/books/_mark_button.html.erb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/app/views/layouts/_footer.html.erb" afterPath="$USER_HOME$/workspace/brs_26/app/views/layouts/_footer.html.erb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/app/views/layouts/_header.html.erb" afterPath="$USER_HOME$/workspace/brs_26/app/views/layouts/_header.html.erb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/config/locales/en.yml" afterPath="$USER_HOME$/workspace/brs_26/config/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/config/routes.rb" afterPath="$USER_HOME$/workspace/brs_26/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/db/schema.rb" afterPath="$USER_HOME$/workspace/brs_26/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/brs_26/db/seeds.rb" afterPath="$USER_HOME$/workspace/brs_26/db/seeds.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/fjp_book_management_system/Gemfile" afterPath="$USER_HOME$/workspace/fjp_book_management_system/Gemfile" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/fjp_book_management_system/Gemfile.lock" afterPath="$USER_HOME$/workspace/fjp_book_management_system/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/livequiz/.sample.env" afterPath="$USER_HOME$/workspace/livequiz/.sample.env" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/livequiz/Gemfile" afterPath="$USER_HOME$/workspace/livequiz/Gemfile" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/livequiz/Rakefile" afterPath="$USER_HOME$/workspace/livequiz/Rakefile" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/livequiz/config/database.yml" afterPath="$USER_HOME$/workspace/livequiz/config/database.yml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/livequiz/config/secrets.yml" afterPath="$USER_HOME$/workspace/livequiz/config/secrets.yml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/livequiz/db/schema.rb" afterPath="$USER_HOME$/workspace/livequiz/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/.idea/sample_app.iml" afterPath="$USER_HOME$/workspace/sample_app/.idea/sample_app.iml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/Gemfile" afterPath="$USER_HOME$/workspace/sample_app/Gemfile" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/Gemfile.lock" afterPath="$USER_HOME$/workspace/sample_app/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/assets/stylesheets/custom.scss" afterPath="$USER_HOME$/workspace/sample_app/app/assets/stylesheets/custom.scss" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/controllers/static_pages_controller.rb" afterPath="$USER_HOME$/workspace/sample_app/app/controllers/static_pages_controller.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/models/micropost.rb" afterPath="$USER_HOME$/workspace/sample_app/app/models/micropost.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/views/layouts/_header.html.erb" afterPath="$USER_HOME$/workspace/sample_app/app/views/layouts/_header.html.erb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/workspace/sample_app/app/views/password_resets/edit.html.erb" afterPath="$USER_HOME$/workspace/sample_app/app/views/password_resets/edit.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -35,161 +71,88 @@
   <component name="ChangesViewManager" flattened_view="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/simple_cms@Development__toy_app.coverage" NAME="Development: toy_app Coverage Results" MODIFIED="1498548968442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/workspace/toy_app" MODULE_NAME="toy_app" />
+    <SUITE FILE_PATH="coverage/simple_cms@All_tests_in_sample_app__sample_app.coverage" NAME="All tests in sample_app: sample_app Coverage Results" MODIFIED="1498917738999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/workspace/sample_app" MODULE_NAME="sample_app" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sessions_helper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="17" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="41" column="3" lean-forward="false" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/users_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_helper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/application_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="static_pages_helper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/static_pages_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users_helper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/users_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/workspace/sample_app/app/models/user.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rspect</find>
+      <find>rake</find>
+      <find>action_mailer</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Downloads/Project2" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/workspace/toy_app/config/routes.rb" />
-        <option value="$USER_HOME$/conFusion/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/app/models/admin_user.rb" />
-        <option value="$PROJECT_DIR$/app/models/page.rb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/models/micropost.rb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/controllers/microposts_controller.rb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/views/microposts/_form.html.erb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/views/microposts/index.html.erb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/views/users/_form.html.erb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/views/users/index.html.erb" />
-        <option value="$USER_HOME$/workspace/toy_app/app/models/user.rb" />
-        <option value="$USER_HOME$/workspace/toy_app/Gemfile" />
-        <option value="$USER_HOME$/workspace/sample_app/test/controllers/static_pages_controller_test.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/static_pages/about.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/static_pages/help.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/controllers/static_pages_controller.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/static_pages/contact.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/helpers/application_helper.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/layouts/_footer.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/static_pages/home.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/db/migrate/20170628015243_create_users.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/db/migrate/20170628033136_add_index_to_users_email.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/Gemfile" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/users/show.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/helpers/users_helper.rb" />
+        <option value="$USER_HOME$/workspace/railsgem/app/controllers/registrations_controller.rb" />
+        <option value="$USER_HOME$/workspace/railsgem/app/controllers/posts_controller.rb" />
+        <option value="$USER_HOME$/workspace/railsgem/app/controllers/home_controller.rb" />
+        <option value="$USER_HOME$/workspace/railsgem/config/routes.rb" />
+        <option value="$USER_HOME$/workspace/railsgem/app/views/posts/index.html.erb" />
+        <option value="$USER_HOME$/workspace/deviseapp/config/environments/development.rb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/views/layouts/application.html.erb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/assets/stylesheets/application.css" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/views/ideas/_form.html.erb" />
+        <option value="$USER_HOME$/workspace/deviseapp/config/routes.rb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/models/idea.rb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/models/comment.rb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/views/ideas/show.html.erb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/controllers/ideas_controller.rb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/views/comments/_form.html.erb" />
+        <option value="$USER_HOME$/workspace/deviseapp/app/views/comments/show.html.erb" />
+        <option value="$USER_HOME$/workspace/deviseapp/Gemfile" />
+        <option value="$USER_HOME$/workspace/livequiz/config/database.yml" />
+        <option value="$USER_HOME$/workspace/livequiz/Rakefile" />
+        <option value="$USER_HOME$/workspace/livequiz/Gemfile" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/ideas/_form.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/config/routes.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/models/idea.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/models/comment.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/comments/_form.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/uploaders/picture_uploader.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/ideas/index.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/config/environments/development.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/comments/show.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/comments/index.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/assets/stylesheets/application.css" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/assets/javascripts/application.js" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/layouts/application.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/views/ideas/show.html.erb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/controllers/ideas_controller.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/controllers/application_controller.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/controllers/comments_controller.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/models/user.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/app/models/ability.rb" />
+        <option value="$USER_HOME$/workspace/railsgirls/Gemfile" />
+        <option value="$USER_HOME$/workspace/brs_26/app/models/user.rb" />
+        <option value="$USER_HOME$/workspace/livequiz/config/secrets.yml" />
+        <option value="$USER_HOME$/workspace/livequiz/.sample.env" />
+        <option value="$USER_HOME$/Downloads/Project2/app/controllers/application_controller.rb" />
+        <option value="$USER_HOME$/Downloads/Project2/db/migrate/20170521044541_add_status_to_internship_recruitments.rb" />
+        <option value="$USER_HOME$/Downloads/Project2/db/migrate/20170521031336_add_status_to_internship_registrations.rb" />
+        <option value="$USER_HOME$/Downloads/Project2/config/database.yml" />
+        <option value="$USER_HOME$/Downloads/Project2/Gemfile" />
         <option value="$USER_HOME$/workspace/sample_app/app/assets/stylesheets/custom.scss" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/shared/_error_messages.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/users/new.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/controllers/users_controller.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/layouts/application.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/config/environments/production.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/config/routes.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/sessions/new.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/views/layouts/_header.html.erb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/controllers/application_controller.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/models/user.rb" />
-        <option value="$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$USER_HOME$/workspace/sample_app/app/models/micropost.rb" />
+        <option value="$USER_HOME$/workspace/sample_app/config/initializers/kaminari.rb" />
       </list>
     </option>
   </component>
@@ -203,10 +166,26 @@
     <handled-path value="$USER_HOME$/conFusion/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="-11" />
-    <option name="width" value="1317" />
-    <option name="height" value="780" />
+    <option name="x" value="44" />
+    <option name="y" value="-14" />
+    <option name="width" value="1323" />
+    <option name="height" value="783" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Action Cable</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -234,7 +213,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
+              <option name="myItemId" value="Project2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,227 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static_pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shared" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sessions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_cms" />
+              <option name="myItemId" value="Project2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -472,18 +231,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simple_cms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initializers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="RailsProjectView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/workspace/simple_app" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/depot" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="project.settings.patched" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -497,7 +276,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Rails.Development: toy_app">
+  <component name="RunManager">
+    <configuration default="false" name="All tests in sample_app: sample_app" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="sample_app" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift) -Itest" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*,*_spec}.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_micropost" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:3000/microposts/_micropost">
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -705,110 +517,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Development: toy_app" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="toy_app" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Production: toy_app" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="toy_app" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="spec: toy_app" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="toy_app" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test: toy_app" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="toy_app" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Rails.Development: toy_app" />
-      <item index="1" class="java.lang.String" itemvalue="Rails.Production: toy_app" />
-      <item index="2" class="java.lang.String" itemvalue="Rake.spec: toy_app" />
-      <item index="3" class="java.lang.String" itemvalue="Rake.test: toy_app" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in sample_app: sample_app" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug._micropost" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in sample_app: sample_app" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug._micropost" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -834,35 +552,97 @@
       <workItem from="1498618373393" duration="12786000" />
       <workItem from="1498678574363" duration="2285000" />
       <workItem from="1498713404386" duration="5331000" />
-      <workItem from="1498740515259" duration="2332000" />
+      <workItem from="1498740515259" duration="15721000" />
+      <workItem from="1498774894336" duration="5030000" />
+      <workItem from="1498829654166" duration="2389000" />
+      <workItem from="1498833862898" duration="6791000" />
+      <workItem from="1498875632022" duration="8292000" />
+      <workItem from="1498917603792" duration="5104000" />
+      <workItem from="1499056468066" duration="933000" />
+      <workItem from="1499058184677" duration="361000" />
+      <workItem from="1499069716438" duration="3750000" />
+      <workItem from="1499073947030" duration="8936000" />
+      <workItem from="1499136157975" duration="1350000" />
+      <workItem from="1499155818670" duration="3721000" />
+      <workItem from="1499164954281" duration="2959000" />
+      <workItem from="1499216139446" duration="14170000" />
+      <workItem from="1499259792492" duration="6516000" />
+      <workItem from="1499303747455" duration="11459000" />
+      <workItem from="1499426906912" duration="2164000" />
+      <workItem from="1499517123274" duration="2074000" />
+      <workItem from="1499520215535" duration="3411000" />
+      <workItem from="1499564907844" duration="11258000" />
+      <workItem from="1499619348854" duration="4684000" />
+      <workItem from="1499650617783" duration="4729000" />
+      <workItem from="1499807632341" duration="14484000" />
+      <workItem from="1499964372672" duration="7307000" />
+      <workItem from="1499979364913" duration="241000" />
+      <workItem from="1500213565287" duration="7598000" />
+      <workItem from="1500263507267" duration="16017000" />
+      <workItem from="1500341855240" duration="10230000" />
+      <workItem from="1500436918806" duration="12621000" />
+      <workItem from="1500475590828" duration="1805000" />
+      <workItem from="1500516387223" duration="16856000" />
+      <workItem from="1500555748539" duration="5600000" />
+      <workItem from="1500599201251" duration="13591000" />
+      <workItem from="1500627958365" duration="6096000" />
+      <workItem from="1500643124936" duration="3800000" />
+      <workItem from="1500691204807" duration="1683000" />
+      <workItem from="1500713806241" duration="399000" />
+      <workItem from="1500870924159" duration="395000" />
+      <workItem from="1500944021168" duration="2115000" />
+      <workItem from="1500951664595" duration="8547000" />
+      <workItem from="1500973704996" duration="50000" />
+      <workItem from="1501204121254" duration="4418000" />
+      <workItem from="1501548068722" duration="798000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_tests_in_sample_app__sample_app - 2017.07.01 at 21h 01m 49s.xml">
+      <configuration name="All tests in sample_app: sample_app" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_sample_app__sample_app - 2017.07.01 at 21h 02m 06s.xml">
+      <configuration name="All tests in sample_app: sample_app" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_sample_app__sample_app - 2017.07.01 at 21h 02m 19s.xml">
+      <configuration name="All tests in sample_app: sample_app" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44721000" />
+    <option name="totallyTimeSpent" value="302842000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="-11" width="1317" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="44" y="-14" width="1323" height="783" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2486692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10130246" sideWeight="0.5026616" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37098038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.4972549" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5294118" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.49411765" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.49129447" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31111112" sideWeight="0.47058824" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.62228656" sideWeight="0.4973384" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09777778" sideWeight="0.47918245" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06801736" sideWeight="0.4973384" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.018624641" sideWeight="0.49735048" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299566" sideWeight="0.4973384" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -873,347 +653,509 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/models/application_record.rb" />
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionpack-5.1.1/lib/action_dispatch/testing/assertions/response.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/internship_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        <state relative-caret-position="108">
+          <caret line="6" column="54" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/test/controllers/static_pages_controller_test.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/curriculum_vitae.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        <state relative-caret-position="36">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/assets/javascripts/application.js" />
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionview-5.1.1/lib/action_view/helpers/url_helper.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="194" column="11" lean-forward="false" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/config/environments/test.rb" />
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/test.sqlite3" />
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/development.sqlite3" />
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/seeds.rb" />
-    <entry file="file://$USER_HOME$/workspace/sample_app/config/environments/development.rb" />
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/schema.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/internship_registration.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/internship_recruitment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/sections_controller.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/report.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="18" />
+        <state relative-caret-position="54">
+          <caret line="3" column="74" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="3" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/criterion.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="18">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://RailsDependency/User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>RailsDependency</ID>
+          <OriginalElement>User</OriginalElement>
+          <nodes>
+            <node x="474.0" y="123.65668934240354">User</node>
+            <node x="0.0" y="0.9150793650793787">InternshipRegistration</node>
+            <node x="1865.0" y="409.82335600907027">Criterion</node>
+            <node x="915.1146044624747" y="462.5370867887385">EvaluationCriterium</node>
+            <node x="881.0" y="186.3233560090702">Assignment</node>
+            <node x="0.0" y="527.3233560090703">Ability</node>
+            <node x="1811.5" y="147.8233560090702">CurriculumVitae</node>
+            <node x="1757.0" y="10.5">InternshipRecruitment</node>
+            <node x="137.5" y="337.4371882086168">Report</node>
+            <node x="2231.0" y="247.4471655328799">ApplicationRecord</node>
+            <node x="1360.0" y="308.82335600907027">Evaluation</node>
+            <node x="1268.0" y="59.32335600907024">InternshipAssignment</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Criterion" target="ApplicationRecord">
+              <point x="89.0" y="-0.0" />
+              <point x="2151.0" y="437.82335600907027" />
+              <point x="-80.5" y="10.666666666666686" />
+            </edge>
+            <edge source="User" target="Assignment">
+              <point x="163.5" y="50.285714285714334" />
+              <point x="-153.5" y="50.666666666666686" />
+            </edge>
+            <edge source="Assignment" target="Evaluation">
+              <point x="153.5" y="50.666666666666686" />
+              <point x="1268.0" y="322.1566893424035" />
+              <point x="-112.5" y="-26.666666666666686" />
+            </edge>
+            <edge source="EvaluationCriterium" target="Evaluation">
+              <point x="99.0" y="-26.666666666666686" />
+              <point x="1188.0" y="378.0205215419501" />
+              <point x="1268.0" y="375.4900226757369" />
+              <point x="-112.5" y="26.666666666666686" />
+            </edge>
+            <edge source="Assignment" target="InternshipAssignment">
+              <point x="153.5" y="-50.66666666666666" />
+              <point x="-204.5" y="26.0" />
+            </edge>
+            <edge source="Report" target="ApplicationRecord">
+              <point x="59.5" y="14.0" />
+              <point x="394.0" y="379.4371882086168" />
+              <point x="474.0" y="476.32335600907027" />
+              <point x="2151.0" y="476.32335600907027" />
+              <point x="-80.5" y="14.222222222222229" />
+            </edge>
+            <edge source="InternshipRecruitment" target="ApplicationRecord">
+              <point x="197.0" y="-0.0" />
+              <point x="-80.5" y="-10.666666666666686" />
+            </edge>
+            <edge source="Report" target="User">
+              <point x="59.5" y="-14.0" />
+              <point x="394.0" y="351.4371882086168" />
+              <point x="-163.5" y="44.0" />
+            </edge>
+            <edge source="InternshipRecruitment" target="User">
+              <point x="-197.0" y="-0.0" />
+              <point x="1677.0" y="48.82335600907024" />
+              <point x="881.0" y="48.82335600907024" />
+              <point x="163.5" y="-75.42857142857144" />
+            </edge>
+            <edge source="Assignment" target="User">
+              <point x="-153.5" y="-50.66666666666666" />
+              <point x="163.5" y="2.8421709430404007E-14" />
+            </edge>
+            <edge source="Assignment" target="ApplicationRecord">
+              <point x="153.5" y="-0.0" />
+              <point x="2151.0" y="262.3233560090702" />
+              <point x="-80.5" y="-0.0" />
+            </edge>
+            <edge source="Evaluation" target="ApplicationRecord">
+              <point x="112.5" y="-0.0" />
+              <point x="2151.0" y="348.8233560090702" />
+              <point x="-80.5" y="3.555555555555543" />
+            </edge>
+            <edge source="Evaluation" target="User">
+              <point x="-112.5" y="-0.0" />
+              <point x="881.0" y="348.8233560090702" />
+              <point x="163.5" y="75.42857142857144" />
+            </edge>
+            <edge source="InternshipRegistration" target="ApplicationRecord">
+              <point x="197.0" y="-26.666666666666657" />
+              <point x="474.0" y="0.0" />
+              <point x="2151.0" y="0.0" />
+              <point x="-80.5" y="-14.222222222222229" />
+            </edge>
+            <edge source="EvaluationCriterium" target="ApplicationRecord">
+              <point x="99.0" y="-0.0" />
+              <point x="1188.0" y="404.6871882086168" />
+              <point x="1268.0" y="399.32335600907027" />
+              <point x="2151.0" y="399.32335600907027" />
+              <point x="-80.5" y="7.111111111111086" />
+            </edge>
+            <edge source="InternshipRegistration" target="User">
+              <point x="197.0" y="26.66666666666667" />
+              <point x="-163.5" y="-44.0" />
+            </edge>
+            <edge source="InternshipAssignment" target="InternshipRecruitment">
+              <point x="204.5" y="-26.0" />
+              <point x="-197.0" y="26.66666666666667" />
+            </edge>
+            <edge source="User" target="InternshipAssignment">
+              <point x="163.5" y="-50.28571428571428" />
+              <point x="881.0" y="85.32335600907024" />
+              <point x="-204.5" y="-26.0" />
+            </edge>
+            <edge source="InternshipRegistration" target="InternshipRecruitment">
+              <point x="197.0" y="-0.0" />
+              <point x="474.0" y="29.438775510204067" />
+              <point x="1677.0" y="29.438775510204067" />
+              <point x="-197.0" y="-26.666666666666657" />
+            </edge>
+            <edge source="EvaluationCriterium" target="Criterion">
+              <point x="99.0" y="26.666666666666686" />
+              <point x="1188.0" y="431.35385487528345" />
+              <point x="1268.0" y="437.82335600907027" />
+              <point x="-89.0" y="-0.0" />
+            </edge>
+            <edge source="CurriculumVitae" target="ApplicationRecord">
+              <point x="142.5" y="-0.0" />
+              <point x="2151.0" y="175.8233560090702" />
+              <point x="-80.5" y="-3.555555555555543" />
+            </edge>
+            <edge source="InternshipAssignment" target="ApplicationRecord">
+              <point x="204.5" y="26.0" />
+              <point x="2151.0" y="137.32335600907024" />
+              <point x="-80.5" y="-7.111111111111086" />
+            </edge>
+            <edge source="User" target="CurriculumVitae">
+              <point x="163.5" y="-25.14285714285711" />
+              <point x="881.0" y="175.8233560090702" />
+              <point x="-142.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6358208955223881" x="1414.0" y="257.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Migration fields</Category>
+            <Category>Association fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170303033108_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170306103250_add_role_to_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170306105516_create_curriculum_vitaes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170307150335_create_internship_recruitments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170322164345_add_devise_to_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170328080015_create_internship_registrations.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="79" lean-forward="false" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170520032733_add_provider_to_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170521031336_add_status_to_internship_registrations.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170521044541_add_status_to_internship_recruitments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170521184431_create_internship_assignments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170522171612_create_assignments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170524084349_create_evaluations.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170524085652_create_criterions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170524085936_create_evaluation_criteria.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/db/migrate/20170525082601_create_reports.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/controllers/sessions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/omniauth.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="127" lean-forward="true" selection-start-line="0" selection-start-column="127" selection-end-line="0" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/assignments/_assignment_modal.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/assignments/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" column="57" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/_assignment_fields.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/_modal.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/_shim.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/mailer.text.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/mailer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Project2/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/workspace/sample_app/app/assets/stylesheets/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="140" column="1" lean-forward="true" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/migrate/20170628015243_create_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/migrate/20170628033136_add_index_to_users_email.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/config/puma.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-670">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/users/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/activemodel-5.1.1/lib/active_model/secure_password.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="93" column="43" lean-forward="false" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/migrate/20170628035314_add_password_digest_to_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/db/migrate/20170629054650_add_remember_digest_to_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/actionpack-5.1.1/lib/action_controller/metal/redirecting.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="55" column="8" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="234">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/workspace/sample_app/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="126">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/users/show.html.erb">
+    <entry file="file://$USER_HOME$/workspace/sample_app/app/models/micropost.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="252">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/users/new.html.erb">
+    <entry file="file://$USER_HOME$/workspace/sample_app/config/initializers/kaminari.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="36">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/static_pages/about.html.erb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/devise.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/static_pages/contact.html.erb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/cookies_serializer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/static_pages/help.html.erb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/backtrace_silencers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/static_pages/home.html.erb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/assets.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/shared/_error_messages.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/views/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/static_pages_controller.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/application_controller_renderer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/users_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/static_pages_helper.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/kaminari.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/application_helper.rb">
+    <entry file="file://$USER_HOME$/Downloads/Project2/config/initializers/rails_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="-371">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/users_controller.rb">
+    <entry file="file://$USER_HOME$/workspace/sample_app/config/initializers/rails_admin.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/controllers/sessions_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/app/helpers/sessions_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/workspace/sample_app/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="17" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="41" column="3" lean-forward="false" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="50" column="14" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>

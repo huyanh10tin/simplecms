@@ -49,6 +49,6 @@ test:
 #
 production:
   <<: *default
-  database: ENV['DATABASE_URL']
-  username: ENV['CLEARDB_DATABASE_USERNAME']
-  password: ENV['CLEARDB_DATABASE_PASSWORDs']
+  database: simple_cms_production
+  username: simple_cms
+  password: <%= ENV['SIMPLE_CMS_DATABASE_PASSWORD'] %>
